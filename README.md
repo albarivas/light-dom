@@ -46,3 +46,5 @@
    ```
    sf org open
    ```
+
+1. To test the components in a Experience Cloud site, create a community, activate it and include the components on a sample page.
