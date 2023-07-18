@@ -7,14 +7,20 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
-                <componentName>helloCodey</componentName>
-                <identifier>c_helloCodey</identifier>
+                <componentName>mascotChanger</componentName>
+                <identifier>c_mascotChanger</identifier>
             </componentInstance>
         </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>colorChanger</componentName>
+                <identifier>c_colorChanger</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

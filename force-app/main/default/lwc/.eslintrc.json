@@ -1,5 +1,6 @@
 {
   "extends": ["@salesforce/eslint-config-lwc/recommended"],
+  "ignorePatterns": ["mascotChanger.js"],
   "overrides": [
     {
       "files": ["*.test.js"],

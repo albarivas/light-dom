@@ -64,4 +64,8 @@
         <name>Light_DOM_Examples</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>customers</name>
+        <type>Network</type>
+    </appMenuItems>
 </AppMenu>
