@@ -6,4 +6,8 @@
     </applicationVisibilities>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Light DOM</label>
+    <tabSettings>
+        <tab>Light_DOM_Examples</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
